@@ -1,0 +1,9 @@
+{
+  "title": "Around me in Wikidata",
+  "brand": "Around me in Wikidata",
+  "headline": "What's to see here?",
+  "description": "Discover what's around you! Which buildings or institutions are within walking distance (i.e. approximately 500m)? What are some notable locations, streets, or stations around me? What does Wikipedia have to say about them?",
+  "technical-description": "<p><small>Find things that are located near you according to Wikidata. Built with <a href=\"https://github.com/hay/chantek\">Chantek</a> by <a href=\"http://www.haykranen.nl/\">Hay Kranen</a>. Also built with <a href=\"http://getbootstrap.com/\">Bootstrap</a>, <a href=\"http://msurguy.github.io/ladda-bootstrap/\">Ladda UI for Bootstrap 3</a>, <a href=\"http://modernizr.com/\">Modernizr</a>, and <a href=\"http://jquery.com/\">JQuery</a>. Localization with <a href=\"http://i18next.com/\">i18next</a>.</small></p> <p><small>All data comes from <a href=\"http://www.wikidata.org/\">Wikidata</a> and is queried with <a href=\"http://wdq.wmflabs.org/\">WikidataQuery</a>.</small></p> <p><small>This application works with modern browsers that support <a href=\"http://dev.w3.org/geo/api/spec-source.html\">HTML5 Geolocation</a> and <a href=\"http://de.wikipedia.org/wiki/Cross-Origin_Resource_Sharing\">Cross-Origin Resource Sharing (CORS)</a>.</small></a>",
+  "locate-me-label": "Show me what's around me!",
+  "footer": "<p>The <a href=\"js/main.js\">source code</a> of this application is free software: you can redistribute it and/or modify it under the terms of the <a href=\"http://www.gnu.org/copyleft/gpl.html\">GNU General Public License</a> as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. Some other dependencies, tools, and assets are used under their respective licenses. All text on this website is licensed under a <a href=\"http://creativecommons.org/publicdomain/zero/1.0/\">CC0 1.0</a> license.</p>"
+}
